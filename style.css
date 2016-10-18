@@ -1,0 +1,68 @@
+body {
+  background: #466368;
+  background: radial-gradient(#648880, #293f50);
+
+}
+main {
+  width: 808px;
+  margin: auto;
+}
+
+h1 {
+  font-family: Garamond, Cursive;
+  font-weight: bold;
+  text-align: center;
+  border: 5px solid #000000;
+  margin: auto;
+  width: 500px;
+  background-color: #D3D3D3;
+}
+
+h3 {
+  text-decoration: underline;
+  padding-left: 37px;
+  font-size: 22px;
+  font-family: Big Caslon;
+}
+
+li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Times New Roman;
+}
+
+
+.infobox {
+  width: 400px;
+  height: 250px;
+  float: left;
+  border: 2px solid #000000;
+  background-color: #d3d3d3;
+  border-radius: 10px;
+
+}
+
+.infobox2 {
+  width: 400px;
+  height: 250px;
+  float: right;
+  border: 2px solid #000000;
+  background-color: #d3d3d3;
+  border-radius: 10px;
+}
+
+#nikko {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#codefellows {
+  font-family: Garamond;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #FF0000;
+}
